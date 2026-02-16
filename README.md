@@ -36,3 +36,5 @@ Based on the EDA, the following safety measures are proposed:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+
+[Click here to view my Kaggle Notebook](https://www.kaggle.com/code/harshrane03/road-traffic-accidents)
